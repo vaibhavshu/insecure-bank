@@ -64,9 +64,9 @@
 									<cargo.jvmargs>
 										<!-- Hdiv JVM arguments -->
 									</cargo.jvmargs>
-									<cargo.servlet.port>9001</cargo.servlet.port>
-									<cargo.tomcat.ajp.port>9002</cargo.tomcat.ajp.port>
-									<cargo.rmi.port>9003</cargo.rmi.port>
+									<cargo.servlet.port>9111</cargo.servlet.port>
+									<cargo.tomcat.ajp.port>9112</cargo.tomcat.ajp.port>
+									<cargo.rmi.port>9113</cargo.rmi.port>
 								</properties>
 							</configuration>
 						</configuration>
